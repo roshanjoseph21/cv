@@ -12,6 +12,7 @@
 .child{
     height: fit-content;
     border: 1px solid black;
+    box-shadow: 10px 5px 20px 5px rgb(97, 97, 97);
     /* box-shadow: 3px 3px 3px 1px rgb(61, 59, 59); */
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
